@@ -8,14 +8,20 @@
 	"step7":"Hi , Sorry this version is not compatible with your phone !\nPlease complete the last step and install the version it's working without problem !",
 	"cpa_link":"https://www.facebook.com/",
 
-	"admob_banner":"ca-app-pub-3940256099942544/6300978111",
-	"admob_inter":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner1":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter1":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner2":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter2":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner3":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter3":"ca-app-pub-3940256099942544/1033173712",
+	"admob_banner4":"ca-app-pub-3940256099942544/6300978111",
+	"admob_inter4":"ca-app-pub-3940256099942544/1033173712",
 
 	"facebook_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 	"facebook_inter":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
 
 	
-	"whichAds":1,
+	"whichAds":0,
 	"isLastPageShow":true
 
 }
