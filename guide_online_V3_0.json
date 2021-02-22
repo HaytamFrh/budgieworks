@@ -69,5 +69,31 @@
         "isNative": "true"
       }
     ]
+    
+    
+    "content2": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+        "isNative": "true"
+      }
+    ]
   }
 }
