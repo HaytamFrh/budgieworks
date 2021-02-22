@@ -1,91 +1,95 @@
 {
-  "Ads": [
-  {
-    "select_ads": "ADMOB",
-    "status_app": "0",
-    "link_redirect": "https://",
-    "admob_interid": "ca-app-pub-3940256099942544/1033173712",
-    "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
-    "admob_openid": "ca-app-pub-3940256099942544/1033173712",
-    "interval_intertitial": "0",
-    "startappid": "201669628",
-    "fan_inter": "612492376332507_612493222999089",
-    "fan_banner_native": "612492376332507_612492762999135",
-    "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
-    "mopub_inter": "24534e1901884e398f1253216226017e",
-    "unityID": "3896203",
-    "unity_inter": "video",
-    "unity_banner": "bannerid",
-    "packagename": "com.aliendroid.alienguide"
+  "GuideData": {
+
+
+    "AdsController": [
+      {
+        "NetworkAds": "admob",
+        "AdMobId": "pub-3940256099942544",
+
+        "BannerAdmob": "ca-app-pub-3940256099942544/6300978111",
+        "InterstitialAdmob": "ca-app-pub-3940256099942544/1033173712",
+        "NativeAdmob": "ca-app-pub-3940256099942544/2247696110",
+
+        "BannerFacebook": "IMG_16_9_APP_INSTALL#173186393601951_299214384332484",
+        "InterstitialFacebook": "IMG_16_9_APP_INSTALL#173186393601951_288058788781377",
+        "NativeFacebook": "VID_HD_9_16_39S_APP_INSTALL#173186393601951_356298065290782"
+
+      }
+    ],
+
+    "items": [
+      {
+        "title": "Dark Meadow: The Pact",
+        "image": "https://usercontent2.hubstatic.com/6961601.jpg"
+      },
+      {
+        "title": "The Old 2",
+        "image": "https://usercontent1.hubstatic.com/8037694.jpg"
+      },
+      {
+        "title": "Call of Cthulhu: Wasted Land ",
+        "image": "https://usercontent1.hubstatic.com/6961608.jpg"
+      },
+      {
+        "title": "Dead Space Android",
+        "image": "https://usercontent2.hubstatic.com/6961611_f520.jpg"
+      },
+      {
+        "title": "Bloody Mary",
+        "image": "https://usercontent1.hubstatic.com/8327654_f520.jpg"
+      },
+      {
+        "title": "Twisted Lands: Shadow Town",
+        "image": "https://usercontent1.hubstatic.com/6961620.jpg"
+      }
+    ],
+
+    "content1": [
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "10",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "",
+        "text": "Dark Meadow : The Pact",
+        "isNative": "false"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "20",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/8037694.jpg",
+        "text": "A survival horror game inspired by Bioshock, Dark Meadow: The Pact has a post-apocalyptic setting with a surprising fairy-tale twist. You will be fighting bloodthirsty goblins roaming the dilapidated halls of an abandoned hospital, seeking the warm blood of the living. More fear strikes as you encounter a witch, and eliminating her is the only way to escape the hospital.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "false","link_title": "","setLink": "",
+        "image_link": "https://usercontent1.hubstatic.com/6961608.jpg",
+        "text": "A touch-centric game, The Pact has gesture-based controls that allow gamers to use common finger gestures while operating a crossbow or a sword. The controls are easy to master and quite fun. The stunning visuals, provided by Unreal's Game Engine 3, are an unmatched visual feast.",
+        "isNative": "true"
+      },
+      {
+        "ordered": "image_text",
+        "color": "#FFFFFF","style": "blood",
+        "gravity": "left",
+        "left": "5",
+        "text_size": "25",
+        "isLink": "true","link_title": "Open The Game","setLink": "com.eyesthegame.eyes",
+        "image_link": "https://usercontent1.hubstatic.com/8327654_f520.jpg",
+        "text": "Dark Meadow is an exploration-based game and has some scary surprises in store. While exploring the haunted hospital, you will uncover several , puzzles, and weapons. You can use in-game money to buy items and equipment that will help you survive the goblin onslaught. With amazing visuals, deep storyline, and excellent gameplay, this survival horror game is here to give you the creeps.",
+        "isNative": "false"
+      }
+    ]
   }
-],
-  "More":
-  [
-    {
-      "id":1,
-      "title":"Ludo King",
-      "image":"https://lh3.googleusercontent.com/GIa9Ek1a4hyqqulStVT1RC7Mus0K5nOcCaeDpt9sJEekq6lnrSIK7LDrpH0OHlFgwog=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.ludo.king"
-    },
-    {
-      "id":2,
-      "title":"Homescapes",
-      "image":"https://lh3.googleusercontent.com/-mPOu6rWotI9ZLDVnvE3ZqKdTgEfaQaqD5SArpkYwlNJM0fOhJLRfJPpPWACHLezwIQ=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.playrix.homescapes"
-    },
-    {
-      "id":3,
-      "title":"Minecraft",
-      "image":"https://lh3.googleusercontent.com/VSwHQjcAttxsLE47RuS4PqpC4LT7lCoSjE7Hx5AW_yCxtDvcnsHHvm5CTuL5BPN-uRTP=s180-rw",
-      "link":"https://play.google.com/store/apps/details?id=com.mojang.minecraftpe"
-    }
-  ],
-
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Easy",
-      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
-
-    },
-    {
-      "id": 2,
-      "name_category": "Medium",
-      "image": "file:///android_asset/gambar/ml.jpg"
-
-    },
-    {
-      "id": 3,
-      "name_category": "Hard",
-      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
-
-    }
-  ],
-
-  "Data": [
-    {
-      "id": 1,
-      "name_category": "Easy",
-      "title": "Turnamen Indoesports League Mobile MON",
-      "image": "http://hexa.web.id/pubg.jpg",
-      "description": "Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p><img alt=\"\" src=\"https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&amp;ssl=1\" style=\"height:336px; width:554px\" /></p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
-    },
-    {
-      "id": 2,
-      "name_category": "Easy",
-      "title": "Trik Tersembunyi Lord Mobile MON",
-      "image": "file:///android_asset/gambar/ml.jpg",
-      "description": "Ini contoh description guide/tutorial ka dua pada json online,dengan data html dan gambar diambil dari folder assets aplikasi",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p><img alt=\"\" src=\"https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg\" style=\"height:360px; width:640px\" /></p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
-    },
-    {
-      "id": 3,
-      "name_category": "Medium",
-      "title": "Mobile Legend Update",
-      "image": "http://hexa.web.id/lord.jpg",
-      "description": "",
-      "link": "<p>Indoesports League Mobile menggelar turnamen game PUBG Mobile, Indoesports League Mobile x Game.ly PUBG Mobile. Dengan mengikuti turnamen ini, gamer di Tanah Air memiliki kesempatan untuk menjadi pro player PUBG Mobile.</p>\r\n\r\n<p>Seperti diketahui, Indonesia tengah menjadi sorotan di kalangan PUBGM Global lewat prestasi yang baru-baru ini diraih sebagai Juara Dunia PUBG Mobile. Kemenangan dicapai oleh Bigetron RA yang digawangi oleh Luxxy, Zuxxy, Ryzen dan Microboy.</p>\r\n\r\n<p>Kesuksesan 4 anak muda ini tentunya tak diraih secara instan. Ratusan bahkan ribuan pertandingan telah mereka tempuh sejak berkarir sebagai pro-player di dunia PUBG Mobile.</p>\r\n\r\n<p>Berkali-kali mengikuti pertandingan mulai dari skala kecil, menengah, nasional hingga internasional serta bertemu dengan player-player terbaik dari berbagai penjuru dunia.</p>\r\n\r\n<p>Berikut ini jadwal turnamen Indoesports League Mobile x Game.ly PUBG Mobile.</p>\r\n\r\n<p>Open Registration : 16 Januari 2020 &ndash; 26 Januari 2020</p>\r\n\r\n<p>Technical Meeting : 27 Januari 2020</p>\r\n\r\n<p>Babak Match : 28 &ndash; 30 Januari 2020</p>\r\n\r\n<p>Grand Final : 31 Januari 2020</p>\r\n\r\n<p>Tempat : Online di seluruh Indonesia</p>\r\n\r\n<p>Update berita dan informasi turnamen, serta halaman untuk mendaftar dapat diakses di website dan Instagram Indoesports.</p>\r\n"
-    }
-  ]
 }
