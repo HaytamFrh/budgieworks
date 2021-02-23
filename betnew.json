@@ -59,6 +59,24 @@
       "name_category": "Hard",
       "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
 
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "image": "https://cdn1-production-images-kly.akamaized.net/8Y3LmBRFGbmO67kyYPayJbmUp_M=/640x360/smart/filters:quality(75):strip_icc():format(jpeg)/kly-media-production/medias/2514400/original/014338600_1543878323-PUBG-Mobile-update.jpg"
+
+    },
+    {
+      "id": 5,
+      "name_category": "Medium",
+      "image": "file:///android_asset/gambar/ml.jpg"
+
+    },
+    {
+      "id": 6,
+      "name_category": "Hard",
+      "image": "https://i1.wp.com/cdn.surgatekno.com/2019/08/spesifikasi-game-lords-mobile.jpg?resize=554%2C336&ssl=1"
+
     }
   ],
 
@@ -86,6 +104,30 @@
       "image": "https://i.imgur.com/MkuBDkj.png",
       "description": "",
       "link": "newbies can read the provided 1xBeet today as well as get 100 % match bonus that will definitely enhance their experience. They only have to register on the website and the platform guarantees they will be granted with the total which is up to 90 pounds almost for free"
+    },
+    {
+      "id": 4,
+      "name_category": "Easy",
+      "title": "become a win player",
+      "image": "https://i.imgur.com/MkuBDkj.png",
+      "description": "",
+      "link": "if you want to become a win player, you need to follow our 1xBeet today tips. It’ s an excellent chance to gain positive experience for people from all over the world. A player from any country which isn’ t under stops can become a successful bettor below. According to 1xBeet betting tips"
+    },
+    {
+      "id": 5,
+      "name_category": "Easy",
+      "title": "Tips",
+      "image": "https://i.imgur.com/MkuBDkj.png",
+      "description": "",
+      "link": "TA more fresh is obliged to wager at least 1 pound. If you want to take all the benefits of wagering here, continue reading the 1xBeet goldmine tips"
+    },
+    {
+      "id": 6,
+      "name_category": "Medium",
+      "title": "Results",
+      "image": "https://i.imgur.com/MkuBDkj.png",
+      "description": "",
+      "link": "Various people choose to wager within the entire contest results or intervals. They take all the benefits of the betting tips 1xBeet provides and get their chances to win in Walk. Handicap offers a few ways to place gamble in several fields including green cards"
     }
   ]
 }
