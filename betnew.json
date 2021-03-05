@@ -1,14 +1,14 @@
 {
   "Ads": [
   {
-    "select_ads": "Admob",
+    "select_ads": "startapp",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "ca-app-pub-3940256099942544/1033173712",
     "admob_nativeid": "ca-app-pub-3940256099942544/2247696110",
     "admob_openid": "ca-app-pub-3940256099942544/1033173712",
     "interval_intertitial": "1",
-    "startappid": "201669628",
+    "startappid": "202029379",
     "fan_inter": "",
     "fan_banner_native": "",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
