@@ -1,7 +1,7 @@
 {
   "Ads": [
   {
-    "select_ads": "startapp",
+    "select_ads": "FACEBOOK",
     "status_app": "0",
     "link_redirect": "https://",
     "admob_interid": "",
@@ -9,8 +9,8 @@
     "admob_openid": "",
     "interval_intertitial": "1",
     "startappid": "",
-    "fan_inter": "",
-    "fan_banner_native": "",
+    "fan_inter": "2872080109780364_2872595426395499",
+    "fan_banner_native": "2872080109780364_2872080589780316",
     "mopub_banner": "b195f8dd8ded45fe847ad89ed1d016da",
     "mopub_inter": "24534e1901884e398f1253216226017e",
     "unityID": "3896203",
