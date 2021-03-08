@@ -1,12 +1,12 @@
 {
   "Ads": [
   {
-    "select_ads": "FACEBOOK",
+    "select_ads": "ADMOB",
     "status_app": "0",
     "link_redirect": "https://",
-    "admob_interid": "",
-    "admob_nativeid": "",
-    "admob_openid": "",
+    "admob_interid": "ca-app-pub-5776147125935992/6940201267",
+    "admob_nativeid": "ca-app-pub-5776147125935992/8800077843",
+    "admob_openid": "ca-app-pub-5776147125935992/7574803693",
     "interval_intertitial": "1",
     "startappid": "",
     "fan_inter": "2872080109780364_2872595426395499",
